@@ -2,7 +2,7 @@
 A list of links with a little bit of advice sprinkled in.
 ***
 ## Contents:
-* [Just keep in mind...](#Just-keep-in-mind)
+* [Just keep in mind...](#just-keep-in-mind)
 * [Resume](#resume)
     * [Projects](#projects)
     * [Making a resume](#making-a-resume)
