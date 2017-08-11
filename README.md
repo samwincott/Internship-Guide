@@ -46,7 +46,7 @@ Some companies will have a form online, but some you'll have to cold email. Appl
 ***
 ## Interview prep
 ### __Books__
-Here are a few books that will help.
+Here are some great books on the subject:
 * Gayle McDowell – [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 * Aziz, Lee, Prakash – [Elements of Programming Interviews](https://www.amazon.com/dp/1479274836/)
 * Giguere, Mongan, Kindler – [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
