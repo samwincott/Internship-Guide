@@ -14,7 +14,7 @@ A list of links with a little bit of advice sprinkled in.
 
 ***
 ## Resume
-### Projects
+### __Projects__
 #### Personal projects
 Demonstrate your coding skills, these can be put on your resume and will be discussed in your interviews.
 Ideas:
@@ -29,7 +29,7 @@ Another way to demonstrate coding skills that recruiters love. Here are some lin
 * [Github search for beginner issues](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 * [Opensource guides](https://opensource.guide/how-to-contribute/)
 
-### Making a resume
+### __Making a resume__
 * [Careercup resume](https://www.careercup.com/resume)
 * [Give your resume a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
 * [Reddit - Could we create a basic undergrad resume?](https://www.reddit.com/r/cscareerquestions/comments/25u0eo/could_we_create_a_basic_undergrad_resume/)
@@ -39,18 +39,19 @@ Another way to demonstrate coding skills that recruiters love. Here are some lin
 Make a spreasheet of companies that you'd like to apply to. Have columns such as company name, website, application status, and similar. To find companies to apply to have a look at these  websites:
 * [Github - easy application](https://github.com/j-delaney/easy-application)
 * [Intern.supply](http://www.intern.supply/)
+* [The Really Big Hugely Ginormous Tech Company List](https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779)
 * Your imagination! If there's a company you like, have a look on their website or send them an email (typically careers@company.com).
 
 Some companies will have a form online, but some you'll have to cold email. Apply to as many as you'd like, preferably 30+.
 ***
 ## Interview prep
-### Books
+### __Books__
 Here are a few books that will help.
 * Gayle McDowell – [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 * Aziz, Lee, Prakash – [Elements of Programming Interviews](https://www.amazon.com/dp/1479274836/)
 * Giguere, Mongan, Kindler – [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
 
-### Study plan
+### __Study plan__
 You need to know your stuff before you interview (obviously).
 #### Algorithms
 Algorithms to know:
@@ -71,13 +72,20 @@ Data structures to know:
 * [Tree](http://www.cs.cmu.edu/~clo/www/CMU/DataStructures/Lessons/lesson4_1.htm)
 * [Heap](http://www.geeksforgeeks.org/binary-heap/)
 * [Hash tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
-* Graphs
-* Trie
-* Linked hash map
+* [Graphs](https://en.wikibooks.org/wiki/Data_Structures/Graphs)
+* [Trie](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
+
+General links:
+* [Columbia - Data Structures for Interviews](http://www.columbia.edu/~jxz2101/)
+* [GeeksforGeeks - Data Structures](http://www.geeksforgeeks.org/data-structures/)
+* [Top 50 Data Structures Interview Questions](https://career.guru99.com/top-50-data-structure-interview-questions/)
 
 #### Big-O
+* [Rob Bell - A beginner's buide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+* [Derek Banas - Big O Notations (YouTube)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+* [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
-### Practice
+### __Practice__
 Now put all that you've learned to practice! I've found the best sites for this are:
 * [Hackerrank](https://www.hackerrank.com/ "Hackerrank")
 * [Leetcode](https://leetcode.com/ "Leetcode")
@@ -87,4 +95,11 @@ Now put all that you've learned to practice! I've found the best sites for this 
 ***
 
 ## Resources
+Here are some general resources with brilliant communities and information:
+* [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
+* [GeeksforGeeks](http://www.geeksforgeeks.org/)
+* [Glassdoor](https://www.glassdoor.co.uk/)
+* [CareerCup](https://careercup.com/page)
+* [TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/)
+
 
