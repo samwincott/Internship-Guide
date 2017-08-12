@@ -42,6 +42,8 @@ Another way to demonstrate coding skills that recruiters love. Here are some lin
 * [Careercup resume](https://www.careercup.com/resume)
 * [Give your resume a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
 * [Reddit - Could we create a basic undergrad resume?](https://www.reddit.com/r/cscareerquestions/comments/25u0eo/could_we_create_a_basic_undergrad_resume/)
+* [Udacity resume review and feedback](https://career-resource-center.udacity.com/resume)
+   * Get 7-Day free trial for free resume review. Feedback returns within 48hrs of submission.
 
 ***
 ## Applying
