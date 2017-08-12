@@ -8,6 +8,7 @@ A list of links with a little bit of advice sprinkled in.
     * [Making a resume](#making-a-resume)
 * [Applying](#applying)
 * [Interview prep](#interview-prep)
+    * [General](#general)
     * [Books](#books)
     * [Study plan](#study-plan)
     * [Practice](#practice)
@@ -56,6 +57,12 @@ Make a spreasheet of companies that you'd like to apply to. Have columns such as
 Some companies will have a form online, but some you'll have to cold email. Apply to as many as you'd like, preferably 30+.
 ***
 ## Interview prep
+### General
+General guides and tips:
+* [Tips for Computer Science Internship Interviews](http://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/)
+* [How to land a top-notch tech internship — and a tech job — while you’re still in school](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
+* [How to talk about side projects](https://medium.freecodecamp.com/how-to-talk-about-your-side-projects-18b96f192817#.egwz2u3jl)
+
 ### __Books__
 Here are some great books on the subject:
 * Gayle McDowell – [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
