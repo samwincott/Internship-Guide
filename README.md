@@ -1,5 +1,7 @@
 # Internship Guide
 A list of links with a little bit of advice sprinkled in.
+
+Feel free to make a pull request with updates!
 ***
 ## Contents:
 * [Just keep in mind...](#just-keep-in-mind)
