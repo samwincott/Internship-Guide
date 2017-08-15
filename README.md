@@ -54,6 +54,8 @@ Make a spreasheet of companies that you'd like to apply to. Have columns such as
 * [Github - easy application](https://github.com/j-delaney/easy-application)
 * [Intern.supply](http://www.intern.supply/)
 * [The Really Big Hugely Ginormous Tech Company List](https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779)
+* [Glassdoor](https://www.glassdoor.com/index.htm#) - Search something similar to "Software Engineer Intern" in your home/school area or anywhere you can live for a few months and work. Apply to any openings you can.
+* [Indeed](https://www.indeed.com/) - Use same strategy as you did with Glassdoor.
 * Your imagination! If there's a company you like, have a look on their website or send them an email (typically careers@company.com).
 
 Some companies will have a form online, but some you'll have to cold email. Apply to as many as you'd like, preferably 30+.
