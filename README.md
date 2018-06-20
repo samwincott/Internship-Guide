@@ -74,7 +74,7 @@ Here are some great books on the subject:
 * Giguere, Mongan, Kindler – [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
 
 ### __Study plan__
-You need to know your stuff before you interview (obviously).
+You need to know your stuff before your interview (obviously).
 #### Algorithms
 Algorithms to know:
 * [Sorting and searching](http://epaperpress.com/sortsearch/download/sortsearch.pdf)
