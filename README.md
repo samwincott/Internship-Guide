@@ -4,25 +4,31 @@ A list of links with a little bit of advice sprinkled in.
 Feel free to make a pull request with updates!
 ***
 ## Contents:
-* [Just keep in mind...](#just-keep-in-mind)
-* [Resume](#resume)
-    * [Projects](#projects)
-    * [Making a resume](#making-a-resume)
-* [Applying](#applying)
-* [Interview prep](#interview-prep)
-    * [General](#general)
-    * [Books](#books)
-    * [Study plan](#study-plan)
-    * [Practice](#practice)
-* [Resources](#resources)
+   * [Just keep in mind...](#just-keep-in-mind)
+   * [Resume](#resume)
+   * [Projects](#projects)
+   * [Making a resume](#making-a-resume)
+   * [Applying](#applying)
+   * [Interview prep](#interview-prep)
+   * [General](#general)
+   * [Books](#books)
+   * [Study plan](#study-plan)
+   * [Practice](#practice)
+   * [Resources](#resources)
 ***
 ## __Just keep in mind__...
-* It never hurts to apply to any internship in the area you're wanting to go into (eg. Software Engineering), the worse that can happen is that the company never replies or responds with a "Sorry, we're looking for more experienced or students who are further along their academic careers" etc.
+* It never hurts to apply to any internship in the area you're wanting to go into (eg. Software Engineering), the worse that can happen   is that the company never replies or responds with a "Sorry, we're looking for more experienced people or students who are further along their academic careers" etc.
+
 * Don't pay attention to the requirements or qualifications (most of the time). If you're pretty comfortable with Java and the internship you're applying to requires C# - a language very similar to Java - still apply! If you're willing, some of your Java knowledge can transfer to C# without a problem. Even if it was a language C++ or C, you can still learn and manage along the way since knowing 1 language makes it a lot easier (but not guaranteed to be easy).
+ 
 * In cases where you should pay attention to the requirements, if you only know HTML, CSS, JS, but you're applying for an internship that requires you to know C/C++, expect a no reply at all or something similar to above.
-* If you get an internship, congratulations! Don't stress about not knowing anything of feeling like you don't belong. [It's pretty common.](https://blog.valbonne-consulting.com/2014/08/16/the-imposter-syndrome-in-software-development/) The company knows you're inexperienced and don't know much. You're not expected to go away for 5 days, then come out solving all of the bug issues and be heralded as a hero (but if you do... that's damn impressive). Working as a Software Engineer for any company usually involves a lot of cooperation between co-workers. So this is your time to find out how well your soft skills are and improve upon them! Better soft skills, means better communication, which leads to less confusion in the future.
-* Internships and experiences vary from company to company. Internship at Big Company A may not apply to Big Company B. And even within the same company, intern at Company A in their office in New York will have a difference experience compared to the intern at Company A in their office in San Francisco.
-* Whenever you need help or feel stuck, don't be afraid to ask a question, whether it's your manager, co-workers, etc. They've (most likely) been in your position before and understand how it feels. 
+
+* If you get an internship, congratulations! Don't stress about not knowing anything of feeling like you don't belong here. [It's pretty common.](https://blog.valbonne-consulting.com/2014/08/16/the-imposter-syndrome-in-software-development/) The company knows you're inexperienced and don't know much. You're not expected to go away for 5 days, then come out solving all of the bug issues and be heralded as a hero (but if you do... that's damn impressive). Working as a Software Engineer for any company usually involves a lot of cooperation between co-workers. So this is your time to find out how well your soft skills are and improve upon them!
+ Better soft skills, means better communication, which leads to less confusion in the future.
+
+* Internships and experiences vary from company to company. Internship at Big Company A may not apply to Big Company B. And even within the same company, intern at Company A in his/her office in New York will have a different experience compared to the intern at Company A in his/her office in San Francisco.
+
+* Whenever you need help or feel stuck, don't be afraid to ask a question, whether it's to  your manager, co-workers, etc. They've (most likely) been in your position before and understand how it feels. 
 
 ***
 ## Resume
@@ -30,10 +36,11 @@ Feel free to make a pull request with updates!
 #### Personal projects
 Demonstrate your coding skills, these can be put on your resume and will be discussed in your interviews.
 Ideas:
-* [Reddit - Recruiters, what kind of CS projects impress?](https://www.reddit.com/r/cscareerquestions/comments/586lbg/recruiters_what_kind_of_cs_projects_impress/)
+* [Reddit - Recruiters, what kind of CS projects impress?](https://www.reddit.com/r/cscareerquestions/comments/586lbg/recruiters_what_kind_of_cs_projects_impress/)               
 * [Reddit - Examples of Good Projects](https://www.reddit.com/r/cscareerquestions/comments/5vycbw/examples_of_good_projects/)
 * [Antrikshy - How I got started with programming side projects](http://antrikshy.com/blog/how-i-got-started-with-programming-side-projects)
 * [Reddit - /r/learnprogramming project ideas](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F)
+
 #### Open source contributions
 Another way to demonstrate coding skills that recruiters love. Here are some links and guides:
 * [FreeCodeCamp - How to contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
@@ -46,7 +53,7 @@ Another way to demonstrate coding skills that recruiters love. Here are some lin
 * [Give your resume a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
 * [Reddit - Could we create a basic undergrad resume?](https://www.reddit.com/r/cscareerquestions/comments/25u0eo/could_we_create_a_basic_undergrad_resume/)
 * [Udacity resume review and feedback](https://career-resource-center.udacity.com/resume)
-   * Get 7-Day free trial for free resume review. Feedback returns within 48hrs of submission.
+* Get 7-Day free trial for free resume review. Feedback returns within 48hrs of submission.
 
 ***
 ## Applying
@@ -56,10 +63,11 @@ Make a spreasheet of companies that you'd like to apply to. Have columns such as
 * [The Really Big Hugely Ginormous Tech Company List](https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779)
 * [Glassdoor](https://www.glassdoor.com/index.htm#) - Search something similar to "Software Engineer Intern" in your home/school area or anywhere you can live for a few months and work. Apply to any openings you can.
 * [Indeed](https://www.indeed.com/) - Use same strategy as you did with Glassdoor.
-* Your imagination! If there's a company you like, have a look on their website or send them an email (typically careers@company.com).
+* Your imagination! If there's a company you like, have a look at their website or send them an email (typically careers@company.com).
 
 Some companies will have a form online, but some you'll have to cold email. Apply to as many as you'd like, preferably 30+.
 ***
+
 ## Interview prep
 ### General
 General guides and tips:
@@ -75,6 +83,7 @@ Here are some great books on the subject:
 
 ### __Study plan__
 You need to know your stuff before your interview (obviously).
+
 #### Algorithms
 Algorithms to know:
 * [Sorting and searching](http://epaperpress.com/sortsearch/download/sortsearch.pdf)
@@ -127,3 +136,9 @@ Here are some general resources with brilliant communities and information:
 * [TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/)
 
 
+                                                     
+"Always bear in mind that your own resolution to succeed is more important than any one thing.”
+                                                                                        -Abraham Lincoln
+
+
+                                                 ALL THE BEST
