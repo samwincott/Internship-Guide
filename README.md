@@ -103,6 +103,7 @@ General links:
 * [GeeksforGeeks - Data Structures](http://www.geeksforgeeks.org/data-structures/)
 * [Top 50 Data Structures Interview Questions](https://career.guru99.com/top-50-data-structure-interview-questions/)
 * [Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
+* [Scaler Topics - Data Structures](https://www.scaler.com/topics/data-structures/)
 
 #### Big-O
 * [Rob Bell - A beginner's buide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
