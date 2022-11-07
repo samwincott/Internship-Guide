@@ -127,5 +127,6 @@ Here are some general resources with brilliant communities and information:
 * [Glassdoor](https://www.glassdoor.co.uk/)
 * [CareerCup](https://careercup.com/page)
 * [TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/)
+* [Scaler Topics](https://www.scaler.com/topics/data-structures/)
 
 
