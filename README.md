@@ -86,6 +86,7 @@ Here are some resouces to perfect your algorithms knowledge:
 * [Palantir - How to Ace an Algorithms Interview](https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/)
 * [GeeksforGeeks - Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * [InterviewBit - Essential Algorithm Interview Questions ](https://www.interviewbit.com/algorithm-interview-questions/)
+* [Data Structure and Algorithms Interview Questions](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 #### Data Structures
 Data structures to know:
