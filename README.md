@@ -53,6 +53,7 @@ Another way to demonstrate coding skills that recruiters love. Here are some lin
 Make a spreasheet of companies that you'd like to apply to. Have columns such as company name, website, application status, and similar. To find companies to apply to have a look at these  websites:
 * [Github - easy application](https://github.com/j-delaney/easy-application)
 * [Intern.supply](http://www.intern.supply/)
+* [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Daily-updated Canadian internships, co-ops, new-grad, junior, and entry-level roles across tech, engineering, business, finance, sciences, arts, and other student-friendly fields.
 * [The Really Big Hugely Ginormous Tech Company List](https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779)
 * [Glassdoor](https://www.glassdoor.com/index.htm#) - Search something similar to "Software Engineer Intern" in your home/school area or anywhere you can live for a few months and work. Apply to any openings you can.
 * [Indeed](https://www.indeed.com/) - Use same strategy as you did with Glassdoor.
